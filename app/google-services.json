@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "977394871269",
+    "firebase_url": "https://akka-7580f.firebaseio.com",
+    "project_id": "akka-7580f",
+    "storage_bucket": "akka-7580f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:977394871269:android:ab81a7d701409821",
+        "android_client_info": {
+          "package_name": "com.example.rtp_10305.akkadtn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "977394871269-r45j2vjs4sb4umo51kij4acpip8hbc7p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.rtp_10305.akkadtn",
+            "certificate_hash": "f476ff2a7a7e4a5152ccde648dbf845630b1fd98"
+          }
+        },
+        {
+          "client_id": "977394871269-7or2jbm7mca085m0742oio8omtjdjkae.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzCw5hH4Y7xRaVE6WeytuoGG07KWcSaXw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "977394871269-7or2jbm7mca085m0742oio8omtjdjkae.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
